@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1779840007690,
+    "description" : "",
+    "identifier" : "flujoprincipal",
+    "lastModifiedTimestamp" : 1779840007690,
+    "name" : "flujo_principal",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
